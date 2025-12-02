@@ -27,6 +27,15 @@ Just run the Python file:
     python expense_tracker.py
 
 
+**SQL Queries Used**
+-CREATE TABLE 
+-INSERT 
+-SELECT 
+-SUM()
+-LIKE for monthly filtering 
+
+
+
 **Why I built this**
 I wanted to create a small, real-life project to practice:
 -Python programming
